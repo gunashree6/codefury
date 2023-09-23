@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    text-align:center;
+    background-image: url("desktop-wallpaper-dark-web-dark-developer.jpg");
+    background-size: 1500px;
+    margin-top: 20px;
+}
+h1{
+    color:lavender;
+}
+p{
+    color:white;
+}
+#login-page{
+    
+    background-color:rgba(69, 64, 64, 0.348);
+    width:350px;
+    margin:auto;
+    height: 300px;    
+}
+button{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(24, 176, 24);
+    color: aliceblue;
+}
+a{
+   color:blue; 
+}

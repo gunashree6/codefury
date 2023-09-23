@@ -1,0 +1,37 @@
+*{
+    margin: 0ch;
+    margin-top: 20px;
+    
+    color: azure;
+    border:2px
+}
+body{
+    background-image: url("desktop-wallpaper-dark-web-dark-developer.jpg");
+}
+#a1{
+    margin-left: 35%;
+    height: 700px;
+    width: 500px;
+    background-color: rgba(11, 9, 11, 0.338);
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+}
+#a2{
+    text-align: left;
+    margin-left:15px;
+}
+#a3{
+    text-align: center;
+}
+button{
+    background-color: green;
+    height: 35px;
+    width: 100px;
+    border-radius: 20%;
+    
+}
+
+    
